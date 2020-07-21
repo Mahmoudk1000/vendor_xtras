@@ -38,8 +38,8 @@ include vendor/xtras/QsThemes/qstheme.mk
 
 # Xtended packages
 PRODUCT_PACKAGES += \
+    QpGallery \
     VinylMusicPlayer \
-    GalleryPrebuilt \
     GBoardPrebuilt \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
